@@ -1,74 +1,110 @@
-<!---
-✨ Designed for prasanthdeva — an engineer with big dreams ✨
---->
+<!-- Professional Developer Dashboard for GitHub Profile -->
 
-<!-- Flashing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Prasanth+Deva;🚀+Engineer+With+Big+Dreams;🌱+On+My+Path+From+Root+To+Enterprise;🤝+Open+To+Collaboration+And+Big+Ideas" />
-</h1>
+<h1 align="center">Hi, I'm Prasanth Deva 👋</h1>
 
----
-
-## ✨ About Me
-
-💡 Passionate Engineer building scalable systems  
-🌱 Turning ideas into enterprise-grade solutions  
-🔥 Love backend engineering, distributed systems & real-time tech  
-🤝 Always open to collaborate on interesting projects  
-📈 Dreaming big & growing every day
+<p align="center">
+  <b>Backend Engineer • Distributed Systems • High-Scale Architecture • API Platforms</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔎 Overview
 
-**Languages:** Go, Java, TypeScript, SQL  
-**Frameworks:** Spring Boot, Gin, Chi, Vue, Angular  
-**Cloud:** Azure, AWS basics  
-**Tools:** Docker, Redis, Kafka, Postgres, CI/CD  
+I build reliable, high-performance backend systems and design scalable architectures for real-world products.  
+I’m passionate about:
+
+- Backend Engineering (Go, Java)
+- Distributed Systems & Messaging (Kafka, Redis, Pub/Sub)
+- Multi-tenant Platforms & RBAC
+- DevOps (Docker, CI/CD, Kubernetes)
+- Real-Time Processing & High Throughput APIs
 
 ---
 
-## 📊 GitHub Dashboard
+## 🧩 Skills Matrix
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Go, Java, TypeScript, SQL |
+| **Frameworks** | Spring Boot, Chi, Gin, Fiber |
+| **Cloud & Infra** | Azure, Docker, Kubernetes, NGINX |
+| **Data Stores** | Postgres, Redis, MongoDB |
+| **Messaging** | Kafka, RabbitMQ, WebSockets |
+| **Observability** | Grafana, Prometheus |
+| **Architecture** | Multi-tenant, Distributed Systems, Microservices, Event-Driven |
+
+---
+
+# 📊 Developer Activity Dashboard
+
+### ➕ Commits · ➕ Pull Requests · ➕ Code Reviews · ➕ Issues  
+*A complete plus-style contribution view*
 
 <div align="center">
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=prasanthdeva&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<!-- GitHub Metrics (Full activity: commits, PRs, issues, reviews) -->
+<!-- After setting up the GitHub Action, this file will be generated automatically -->
+<img src="https://raw.githubusercontent.com/prasanthdeva/prasanthdeva/main/github-metrics.svg" alt="GitHub Metrics" />
+
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prasanthdeva&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthdeva&theme=tokyonight&hide_border=true" height="165" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthdeva&theme=github-dark-blue&hide_border=true" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanthdeva&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🚀 Contribution Graph
+## 🛠️ Recent Engineering Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanthdeva&theme=react-dark&hide_border=true" />
+- Designing multi-tenant CRM architecture (Go + Vue)
+- Implementing RBAC with fine-grained permissions
+- Building high-performance Redis caching layer
+- Real-time RFID-based student tracking
+- CI/CD pipelines with GitHub Actions / Azure DevOps
 
 ---
 
-## 🧩 Fancy Badge Wall
+## 🗂️ Highlighted Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Engineer%20With%20Big%20Dreams-%F0%9F%9A%80-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Root%20to%20Enterprise-%F0%9F%8C%9F-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Collaboration%20Ready-%F0%9F%A4%9D-orange?style=for-the-badge" />
-</p>
+| Project | Description |
+|--------|-------------|
+| **Multi-tenant CRM Framework** | Go + Vue based platform with RBAC, auth, and tenant isolation |
+| **Event-driven Notification Engine** | Kafka streaming workflows, retries, DLQ support |
+| **Redis Cache Middleware** | High-performance TTL & invalidation wrapper for Go |
+| **College Management System POC** | Multi-role access: admin, staff, student |
+
+---
+
+## 🛡 Engineering Principles
+
+- **Performance First** → measure & optimize  
+- **Clean Abstractions** → domain-driven boundaries  
+- **Scalability** → services grow with business  
+- **Resilience** → retries, fallbacks, circuit breakers  
+- **Security** → least privilege + secure defaults  
+- **Automation** → CI/CD everywhere  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
 <div align="center">
-
-### ⭐ *If you like my work, don't forget to star my repositories!*
-
+  <b>Building from ROOT → to Enterprise.</b><br/>
+  <b>On a mission to engineer world-class platforms.</b>
 </div>
