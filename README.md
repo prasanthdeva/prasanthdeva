@@ -61,7 +61,6 @@ I’m passionate about:
 
 | Project | Description |
 |--------|-------------|
-| **Multi-tenant CRM Framework** | Go + Vue based platform with RBAC, auth, and tenant isolation |
 | **Event-driven Notification Engine** | Kafka streaming workflows, retries, DLQ support |
 | **Redis Cache Middleware** | High-performance TTL & invalidation wrapper for Go |
 | **College Management System POC** | Multi-role access: admin, staff, student |
@@ -78,17 +77,3 @@ I’m passionate about:
 - **Automation** → CI/CD everywhere  
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
-
-<div align="center">
-  <b>Building from ROOT → to Enterprise.</b><br/>
-  <b>On a mission to engineer world-class platforms.</b>
-</div>
