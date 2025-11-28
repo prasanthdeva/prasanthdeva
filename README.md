@@ -68,7 +68,6 @@ I’m passionate about:
 - Designing multi-tenant CRM architecture (Go + Vue)
 - Implementing RBAC with fine-grained permissions
 - Building high-performance Redis caching layer
-- Real-time RFID-based student tracking
 - CI/CD pipelines with GitHub Actions / Azure DevOps
 
 ---
