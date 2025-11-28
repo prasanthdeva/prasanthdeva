@@ -36,16 +36,6 @@ I’m passionate about:
 ---
 
 # 📊 Developer Activity Dashboard
-
-<!-- GitHub Metrics (Full activity: commits, PRs, issues, reviews) -->
-<!-- After setting up the GitHub Action, this file will be generated automatically -->
-<img src="https://raw.githubusercontent.com/prasanthdeva/prasanthdeva/main/github-metrics.svg" alt="GitHub Metrics" />
-
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prasanthdeva&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-
 <!-- Streak -->
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthdeva&theme=github-dark-blue&hide_border=true" />
 
