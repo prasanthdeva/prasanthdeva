@@ -37,11 +37,6 @@ I’m passionate about:
 
 # 📊 Developer Activity Dashboard
 
-### ➕ Commits · ➕ Pull Requests · ➕ Code Reviews · ➕ Issues  
-*A complete plus-style contribution view*
-
-<div align="center">
-
 <!-- GitHub Metrics (Full activity: commits, PRs, issues, reviews) -->
 <!-- After setting up the GitHub Action, this file will be generated automatically -->
 <img src="https://raw.githubusercontent.com/prasanthdeva/prasanthdeva/main/github-metrics.svg" alt="GitHub Metrics" />
